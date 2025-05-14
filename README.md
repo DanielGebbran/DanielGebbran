@@ -3,7 +3,7 @@
 - In particular, models geared towards the higher penetration of renewables in the grid, and the use of battery resources as flexible energy suppliers.
 - However, other broad topics where applied maths meet engineering and code development nearly always piques my interest!
 - I’m currently collaborating on academic projects with Australian, Brazilian, Danish, and German universities.
-- I currently work on developing and deploying new formulations for different products in MISO and ERCOT energy markets.
+- I currently work on developing and deploying new formulations for different products in CAISO and ERCOT energy markets.
 - I’m looking to collaborate on further academic projects and papers in which my background might be useful!
 - How to reach me: I am very active on LinkedIn, so feel free to reach me there. 
 
